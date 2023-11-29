@@ -1,4 +1,4 @@
-# Data Science Project 1: SpaceX
+# Data Science Project 1: SpaceX Falcon 9 first stage Landing Prediction
 
 This is my first data science project. It is considered the final project of the IBM Data Science Professional Certificate course, where I adquired more knowledge and experience on the field.
 
