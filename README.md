@@ -4,7 +4,7 @@ This is my first data science project. It is considered the final project of the
 
 The data used is from the SpaceX Falcon 9 first stage. 
 
-You can find different files. The <code>Classification Model for SpaceX Falcon9 first stage Landing Prediction</code> includes all the data science analysis and development of a machine learning model to predict if the Falcon 9 first stage will land successfully. The two other notebooks contain an extra SQL exploratory analysis to practice different SQL commands, and a python script to create a dashboard application with our dataset.
+You can find different files. The <code>SpaceX Falcon9 Landing Classification Model</code> includes all the data science analysis and development of a machine learning model to predict if the Falcon 9 first stage will land successfully. The two other notebooks contain an extra SQL exploratory analysis to practice different SQL commands, and a python script to create a dashboard application with our dataset.
 The data folder contains the different files generated during the execution of the code.
 
 **Disclaimer:**
